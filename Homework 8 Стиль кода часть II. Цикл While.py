@@ -94,8 +94,8 @@ age_of_my_pets = 34
 if age_of_my_pets > 10:
     print('I need more space for my pets!')
 
-my_favorite_pets_and_bird = ['cat', 'wolf', 'ostrich']
-if 'wolf' in my_favorite_pets_and_bird:
+favorite_animals = ['cat', 'wolf', 'ostrich']
+if 'wolf' in favorite_animals:
     print('Wow!')
 
 MyFavoritePetsAndBirds = ['cat', 'wolf', 'ostrich']
@@ -134,8 +134,8 @@ if z > 0:
 
 # автоматическое переименование в PyCharm и подсказки - вам не нужно набирать длинные названия переменных
 
-ss = ['cat', 'wolf', 'ostrich']
-if 'cat' in ss:
+animals = ['cat', 'wolf', 'ostrich']
+if 'cat' in animals:
     print('Wow!')
 
 # В каждой уважающей себя компании есть style guide (стайл-гайд) - руководство по стилю написания кода.
